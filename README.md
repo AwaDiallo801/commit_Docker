@@ -1,6 +1,10 @@
 # commit_Docker
 installation de wordpress avec Docker
-Maintenant, exécutez docker-compose up -d à partir de votre répertoire de projet.
+# installation de wordpress avec le serveur nginx
 
-À ce stade, WordPress devrait s'exécuter sur le port 80
-Exemple de connexion:adresseIP:80
+# Installer PHP5.6 sur un serveur Docker LAMP (configuration -> make -> make install)
+
+
+
+
+
