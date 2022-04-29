@@ -1,5 +1,10 @@
 ## Installation simple de wordpress
- > les fichiers pour cette partie:
+les fichiers pour cette partie:
+```
+docker-compose-simple.yml
+
+```
+
 
 ## installation de wordpress avec le serveur nginx
 
